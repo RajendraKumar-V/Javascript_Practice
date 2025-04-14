@@ -2,7 +2,7 @@
 console.log('I like coding');
 console.log('I love coding');
 //to popup a message
-alert("Hello World!");
+//alert("Hello World!");
 /*
   multiple line comment
 */
