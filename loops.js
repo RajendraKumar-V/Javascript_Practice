@@ -23,3 +23,20 @@ while(i<5){
     console.log("Hello World " + i);
     i++;
 }*/
+
+//for loop
+// const arr = [1,2,3,4,5];
+// for(let i=0;i<arr.length;i++){
+//     console.log(arr[i])
+// }
+
+//for in loop
+// const numbers = [1,2,3,4,5];
+// for(let num in numbers){
+//     console.log(num)
+// }
+
+//foreach
+// numbers.forEach((num)=>{
+//     console.log(num)
+// })

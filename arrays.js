@@ -26,3 +26,22 @@ console.log(arrVal.pop()); //4
 //let spliceArray=[3,4,5,6,7,8];
 //console.log(spliceArray.splice(2,3))
 //console.log(spliceArray);
+
+//Destructuring arrays
+//let numbers =[1,2,3]
+//let [x,y]= numbers;
+//console.log(x,y)
+
+/*const fruit = ['Mango','Banana','Apple'];
+
+let sliceArr =fruit.slice(0,2)
+console.log(sliceArr)
+
+let spliceArr =fruit.splice(1,2);
+console.log(spliceArr)*/
+
+/*const cities = ['Delhi', 'Mumbai', 'Chennai', 'Kolkata', 'Bangalore'];
+
+
+cities.splice(2,1,'Hyderabad','Pune')
+console.log(cities);*/
